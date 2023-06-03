@@ -1,6 +1,4 @@
-<h1>Kali Linux - Initial Setup & Troubleshooting Guide</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>Kali Linux - Initial Setup & Troubleshooting Guide (Windows 10)</h1>
 
 <h2>Description</h2>
 The Cyber Security Project involves the initial setup and troubleshooting of a Kali Linux virtual machine (VM) using Oracle VM VirtualBox. Kali Linux is a popular Linux distribution widely used for penetration testing, ethical hacking, and security auditing.
@@ -30,15 +28,30 @@ Throughout the project, participants gain practical knowledge of virtualization 
 By successfully setting up and troubleshooting the Kali Linux VM, participants lay the foundation for performing various cybersecurity tasks within a secure and controlled environment. This project serves as an essential step towards developing practical skills in the field of cyber security and ethical hacking.
 <br />
 
+<h2>Minimum Hardware Requirements</h2>
+
+- <b>Processor: A dual-core processor or higher is recommended. However, a single-core processor can suffice for basic usage.</b> 
+- <b>RAM: At least 2 GB of RAM is required for running Kali Linux smoothly. However, it is recommended to have 4 GB or more for better performance, especially when running resource-intensive security tools.</b>
+- <b>Storage: A minimum of 20 GB of free disk space is required to install Kali Linux. However, it is advisable to allocate more space (at least 40 GB or higher) to accommodate additional software packages, tools, and data.</b>
+- <b>Graphics: Any graphics card that supports the host operating system is sufficient for running Kali Linux in a virtual machine.</b>
+- <b>Network: A network interface card (NIC) is required for network connectivity within the Kali Linux VM. Oracle VM VirtualBox allows you to configure network adapters, including NAT, Bridged, or Host-only networking, based on your requirements.</b>
+- <b>Host Machine: The host machine should meet the minimum requirements for running Oracle VM VirtualBox itself. Refer to the VirtualBox documentation for specific details regarding the host machine's operating system, processor, RAM, and storage requirements.</b>
+
+<i>It is important to note that the above specifications represent the minimum requirements, and for a better experience, it is recommended to have higher specifications, especially when working with resource-intensive tasks or running multiple virtual machines simultaneously. </i>
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>VirtualBox 7.0.8 Platform Packages</b> (Windows hosts)
+- <b>VirtualBox 7.0.8 Oracle VM VirtualBox Extension Pack</b> (All supported platforms)
+- <b>Kali Linux - Installer Images</b> (64-bit Installer)
+- <b>Bash</b>
+- <b>BIOS</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> (22H2 / OS Build 19045.2965)
+- <b>Kali Linux</b> (2023.2)
+
 
 <h2>Program walk-through:</h2>
 
