@@ -212,11 +212,25 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
  <img src="https://i.imgur.com/NoiZ6BW.png" height="60%" width="60%" alt="Kali Linux Walk-Through"/>
 <br />
 <br />
+ Select <b>Yes</b> for <b>Write the changes to disks?</b> and hit <i>Enter</i>. <br/>
+ <img src="https://i.imgur.com/ZMSX9Xl.png" height="60%" width="60%" alt="Kali Linux Walk-Through"/>
+<br />
+<br />
+ In <b>Software selection</b>, leave the default selections and press <b>Continue</b>. <br />
+ <img src="https://i.imgur.com/mYxh6Ps.png" height="60%" width="60%" alt="Kali Linux Walk-Through"/>
+<br />
+<br />
+ In <b>Install the GRUB boot loader</b>, select <b>Yes</b> and press <b>Continue</b>. <br />
+ <img src="https://i.imgur.com/d0U9A8y.png" height="60%" width="60%" alt="Kali Linux Walk-Through"/>
+<br />
+<br />
+ Select the first device that appears under <b>Enter device manually</b>. Press <b>Continue</b>. <br />
+ <img src="https://i.imgur.com/wDOnTBj.png" height="60%" width="60%" alt="Kali Linux Walk-Through"/>
+<br />
+<br />
+ Kali Linux has now been completely installed for use through <b>Oracle VM VirtualBox</b>. Press <b>Continue</b> to reboot the VM. <br />
+ <img src="https://i.imgur.com/nbOR9vl.png" height="60%" width="60%" alt="Kali Linux Walk-Through"/>
 
- 
- 
- 
- 
 </p>
 
 
