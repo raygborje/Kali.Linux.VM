@@ -56,7 +56,7 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 <h2>VirtualBox Install Walk-Through:</h2>
 
 <p align="center">
- <i>If you already have VirtualBox installed, please skip ahead to Kali Linux Install. </i>
+ <i>If you already have VirtualBox installed, please skip ahead to <a href="https://github.com/raygborje/Kali.Linux.VM/blob/main/README.md#kali-linux-install-walk-through">Kali Linux Install</a>. </i>
  <br />
  <br />
  Go to <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox</a>.<br /> 
