@@ -115,12 +115,7 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 <h2>Kali Linux Install Walk-Through:</h2>
 
 <p align="center">
- <i>If you already have VirtualBox installed, please skip ahead to Kali Linux Install. </i>
- <br />
- <br />
- Go to <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox</a>.<br /> 
- Download <b>VirtualBox 7.0.8 Platform Packages</b> (Windows hosts) and <b>VirtualBox 7.0.8 Oracle VM VirtualBox Extension Pack</b> (All supported platforms).
-<br/>
+ Download <a href="https://www.kali.org/get-kali/#kali-platforms">Kali Linux</a>.<br /> 
 <img src="https://i.imgur.com/YIHswd0.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
 <br />
 <br />
