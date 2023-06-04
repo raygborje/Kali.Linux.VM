@@ -79,10 +79,100 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 <br />
  Proceed with the installation by pressing <b>Next</b>.<br/>
  <i>Warning: You will be disconnected from your Network during a brief portion of this installation. </i><br />
-<img src="https://i.imgur.com/2y8DnD4.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+ <i>Warning: If you are Missing Dependencies Python Core / win32api, refer to the Troubleshooting Section.</i><br />
+ <img src="https://i.imgur.com/2y8DnD4.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ At the <b>Ready to Install</b> window, press <b>Install</b>, allow the install, and let the installation complete.<br />
+ <i>You may receive a prompt for a network/usb adapter during this process. Make sure to press Yes when this occurs.</i><br />
+ <img src="https://i.imgur.com/QVwKIkv.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ Once the installation is complete, leave the checkmark as checked and press <b>Finish</b>.
+ <img src="https://i.imgur.com/iC60Y7u.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ Now, we will be installing the extension pack we downloaded earlier onto <b>VirtualBox</b>.<br />
+ In <b>Oracle VM VirtualBox Manager</b>, go to <b>Tools</b>, click on the blue squares, and select the <b>Extensions</b> tab. <br />
+ <img src="https://i.imgur.com/A3e0HW6.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ Click on <b>Install</b> and select the <b>Oracle_VM_VirtualBox_Extension_Pack-7.0.8.vbox-extpack</b> file. Press <b>Open</b>.<br />
+ <img src="https://i.imgur.com/8rDPIwY.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ Click on <b>Install</b>, scroll down to the <b>VirtualBox License</b>, press <b>I Agree</b>.<br />
+ <img src="https://i.imgur.com/JZLJbYX.png" height="60%" width="60%" alt="VirtualBox Install Steps"/><br />
+ <img src="https://i.imgur.com/7SFC5FV.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ The Extension Pack has been successfully installed and <b>Oracle VM VirtualBox</b> is ready for use.<br />
+ <img src="https://i.imgur.com/bNKEvgE.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
 <br />
 <br />
 </p>
+
+<h2>Kali Linux Install Walk-Through:</h2>
+
+<p align="center">
+ <i>If you already have VirtualBox installed, please skip ahead to Kali Linux Install. </i>
+ <br />
+ <br />
+ Go to <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox</a>.<br /> 
+ Download <b>VirtualBox 7.0.8 Platform Packages</b> (Windows hosts) and <b>VirtualBox 7.0.8 Oracle VM VirtualBox Extension Pack</b> (All supported platforms).
+<br/>
+<img src="https://i.imgur.com/YIHswd0.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ Go to Downloads Folder. Run <b>VirtualBox-7.0.8-156879-Win.exe.</b><br/>
+<img src="https://i.imgur.com/0PTxQKW.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ In the <b>Oracle VM VirtualBox Setup Wizard</b>, Click <b>Next</b>.<br/>
+<img src="https://i.imgur.com/o4EZXBL.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ For the <b>Custom Setup</b>, leave Location as <b>C:\ProgramFiles\Oracle\VirtualBox\</b> and press <b>Next</b>.<br/>
+<img src="https://i.imgur.com/tJ4t5U3.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ Proceed with the installation by pressing <b>Next</b>.<br/>
+ <i>Warning: You will be disconnected from your Network during a brief portion of this installation. </i><br />
+ <i>Warning: If you are Missing Dependencies Python Core / win32api, refer to the Troubleshooting Section.</i><br />
+ <img src="https://i.imgur.com/2y8DnD4.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ At the <b>Ready to Install</b> window, press <b>Install</b>, allow the install, and let the installation complete.<br />
+ <i>You may receive a prompt for a network/usb adapter during this process. Make sure to press Yes when this occurs.</i><br />
+ <img src="https://i.imgur.com/QVwKIkv.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ Once the installation is complete, leave the checkmark as checked and press <b>Finish</b>.
+ <img src="https://i.imgur.com/iC60Y7u.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ Now, we will be installing the extension pack we downloaded earlier onto <b>VirtualBox</b>.<br />
+ In <b>Oracle VM VirtualBox Manager</b>, go to <b>Tools</b>, click on the blue squares, and select the <b>Extensions</b> tab. <br />
+ <img src="https://i.imgur.com/A3e0HW6.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ Click on <b>Install</b> and select the <b>Oracle_VM_VirtualBox_Extension_Pack-7.0.8.vbox-extpack</b> file. Press <b>Open</b>.<br />
+ <img src="https://i.imgur.com/8rDPIwY.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ Click on <b>Install</b>, scroll down to the <b>VirtualBox License</b>, press <b>I Agree</b>.<br />
+ <img src="https://i.imgur.com/JZLJbYX.png" height="60%" width="60%" alt="VirtualBox Install Steps"/><br />
+ <img src="https://i.imgur.com/7SFC5FV.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+ The Extension Pack has been successfully installed and <b>Oracle VM VirtualBox</b> is ready for use.<br />
+ <img src="https://i.imgur.com/bNKEvgE.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
+<br />
+<br />
+</p>
+
+
+
 
 <!--
  ```diff
