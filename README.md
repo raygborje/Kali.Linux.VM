@@ -269,6 +269,14 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 <br />
 </p>
 
+<h4>Updating Linux through Terminal</h4>
+<p align="center">
+ Enter the following commands into the terminal: <br />
+ <i>sudo apt-get update</i> <br/>
+ <i>sudo apt update</i> <br />
+ <i>sudo apt upgrade</i> <br />
+ Once all of these commands have completed, Linux should be up-to-date. <br />
+</p>
 
 
 
