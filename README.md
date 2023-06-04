@@ -4,7 +4,7 @@
 1. <a href="https://github.com/raygborje/Kali.Linux.VM/blob/main/README.md#description"> Description </a> <br />
 2. <a href="https://github.com/raygborje/Kali.Linux.VM/blob/main/README.md#virtualbox-install-walk-through"> VirtualBox Install Walk-Through </a> <br />
 3. <a href="https://github.com/raygborje/Kali.Linux.VM/blob/main/README.md#kali-linux-install-walk-through"> Kali Linux Install Walk-Through </a> <br />
-4. <a></a> <br />
+4. <a href="https://github.com/raygborje/Kali.Linux.VM/blob/main/README.md#troubleshooting-guide"> Troubleshooting Guide </a> <br />
 
 <h2>Description</h2>
 The Cyber Security Project involves the initial setup and troubleshooting of a Kali Linux virtual machine (VM) using Oracle VM VirtualBox. Kali Linux is a popular Linux distribution widely used for penetration testing, ethical hacking, and security auditing.
