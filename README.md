@@ -1,9 +1,9 @@
 <h1>Kali Linux - Initial Setup & Troubleshooting Guide (Windows 10)</h1>
 
 <h2>Table of Contents</h2>
-1. <a href="https://github.com/raygborje/Kali.Linux.VM/edit/main/README.md#description">Description</a> <br />
-2. <a href="https://github.com/raygborje/Kali.Linux.VM/edit/main/README.md#virtualbox-install-walk-through">VirtualBox Install Walk-Through</a> <br />
-3. <a href="https://github.com/raygborje/Kali.Linux.VM/edit/main/README.md#kali-linux-install-walk-through">Kali Linux Install Walk-Through</a> <br />
+1. <a href="https://github.com/raygborje/Kali.Linux.VM/main/README.md#description"> Description </a> <br />
+2. <a href="https://github.com/raygborje/Kali.Linux.VM/main/README.md#virtualbox-install-walk-through"> VirtualBox Install Walk-Through </a> <br />
+3. <a href="https://github.com/raygborje/Kali.Linux.VM/main/README.md#kali-linux-install-walk-through"> Kali Linux Install Walk-Through </a> <br />
 4. <a></a> <br />
 
 <h2>Description</h2>
@@ -62,7 +62,7 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 <h2>VirtualBox Install Walk-Through:</h2>
 
 <p align="center">
- <i>If you already have VirtualBox installed, please skip ahead to <a href="https://github.com/raygborje/Kali.Linux.VM/blob/main/README.md#kali-linux-install-walk-through">Kali Linux Install</a>. </i>
+ <i>If you already have VirtualBox installed, please skip ahead to <a href="https://github.com/raygborje/Kali.Linux.VM/blob/main/README.md#kali-linux-install-walk-through"> Kali Linux Install </a>. </i>
  <br />
  <br />
  Go to <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox</a>.<br /> 
@@ -85,7 +85,7 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 <br />
  Proceed with the installation by pressing <b>Next</b>.<br/>
  <i>Warning: You will be disconnected from your Network during a brief portion of this installation. </i><br />
- <i>Warning: If you are Missing Dependencies Python Core / win32api, refer to the <a href="https://github.com/raygborje/Kali.Linux.VM/edit/main/README.md#missing-dependencies-python-core--win32api">Troubleshooting Section</a>.</i><br />
+ <i>Warning: If you are Missing Dependencies Python Core / win32api, refer to the <a href="https://github.com/raygborje/Kali.Linux.VM/main/README.md#missing-dependencies-python-core--win32api">Troubleshooting Section</a>.</i><br />
  <img src="https://i.imgur.com/2y8DnD4.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
 <br />
 <br />
