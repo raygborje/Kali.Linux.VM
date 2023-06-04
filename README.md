@@ -1,5 +1,11 @@
 <h1>Kali Linux - Initial Setup & Troubleshooting Guide (Windows 10)</h1>
 
+<h2>Table of Contents</h2>
+1. <a href="https://github.com/raygborje/Kali.Linux.VM/edit/main/README.md#description">Description</a> <br />
+2. <a href="https://github.com/raygborje/Kali.Linux.VM/edit/main/README.md#virtualbox-install-walk-through">VirtualBox Install Walk-Through</a> <br />
+3. <a href="https://github.com/raygborje/Kali.Linux.VM/edit/main/README.md#kali-linux-install-walk-through">Kali Linux Install Walk-Through</a> <br />
+4. <a></a> <br />
+
 <h2>Description</h2>
 The Cyber Security Project involves the initial setup and troubleshooting of a Kali Linux virtual machine (VM) using Oracle VM VirtualBox. Kali Linux is a popular Linux distribution widely used for penetration testing, ethical hacking, and security auditing.
 
@@ -28,7 +34,7 @@ Throughout the project, participants gain practical knowledge of virtualization 
 By successfully setting up and troubleshooting the Kali Linux VM, participants lay the foundation for performing various cybersecurity tasks within a secure and controlled environment. This project serves as an essential step towards developing practical skills in the field of cyber security and ethical hacking.
 <br />
 
-<h2>Minimum Hardware Requirements</h2>
+<h3>Minimum Hardware Requirements</h3>
 
 - <b>Processor: A dual-core processor or higher is recommended. However, a single-core processor can suffice for basic usage.</b> 
 - <b>RAM: At least 2 GB of RAM is required for running Kali Linux smoothly. However, it is recommended to have 4 GB or more for better performance, especially when running resource-intensive security tools.</b>
@@ -39,7 +45,7 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 
 <i>It is important to note that the above specifications represent the minimum requirements, and for a better experience, it is recommended to have higher specifications, especially when working with resource-intensive tasks or running multiple virtual machines simultaneously. </i>
 
-<h2>Languages and Utilities Used</h2>
+<h3>Languages and Utilities Used</h3>
 
 - <b>VirtualBox 7.0.8 Platform Packages</b> (Windows hosts)
 - <b>VirtualBox 7.0.8 Oracle VM VirtualBox Extension Pack</b> (All supported platforms)
@@ -47,7 +53,7 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 - <b>Bash</b>
 - <b>BIOS</b>
 
-<h2>Environments Used </h2>
+<h3>Environments Used </h3>
 
 - <b>Windows 10</b> (22H2 / OS Build 19045.2965)
 - <b>Kali Linux</b> (2023.2)
@@ -79,7 +85,7 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 <br />
  Proceed with the installation by pressing <b>Next</b>.<br/>
  <i>Warning: You will be disconnected from your Network during a brief portion of this installation. </i><br />
- <i>Warning: If you are Missing Dependencies Python Core / win32api, refer to the Troubleshooting Section.</i><br />
+ <i>Warning: If you are Missing Dependencies Python Core / win32api, refer to the <a href="https://github.com/raygborje/Kali.Linux.VM/edit/main/README.md#missing-dependencies-python-core--win32api">Troubleshooting Section</a>.</i><br />
  <img src="https://i.imgur.com/2y8DnD4.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
 <br />
 <br />
@@ -233,8 +239,13 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 
 </p>
 
+<h2>Troubleshooting Guide:</h2>
 
+<h4>Missing Dependencies Python Core / win32api</h4>
+<p align="center">
 
+ 
+</p>
 
 <!--
  ```diff
