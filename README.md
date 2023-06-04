@@ -53,35 +53,35 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 - <b>Kali Linux</b> (2023.2)
 
 
-<h2>Program walk-through:</h2>
+<h2>VirtualBox Install Walk-Through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <i>If you already have VirtualBox installed, please skip ahead to Kali Linux Install. </i>
+ <br />
+ <br />
+ Go to <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox</a>.<br /> 
+ Download <b>VirtualBox 7.0.8 Platform Packages</b> (Windows hosts) and <b>VirtualBox 7.0.8 Oracle VM VirtualBox Extension Pack</b> (All supported platforms).
+<br/>
+<img src="https://i.imgur.com/YIHswd0.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Go to Downloads Folder. Run <b>VirtualBox-7.0.8-156879-Win.exe.</b><br/>
+<img src="https://i.imgur.com/0PTxQKW.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ In the <b>Oracle VM VirtualBox Setup Wizard</b>, Click <b>Next</b>.<br/>
+<img src="https://i.imgur.com/o4EZXBL.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ For the <b>Custom Setup</b>, leave Location as <b>C:\ProgramFiles\Oracle\VirtualBox\</b> and press <b>Next</b>.<br/>
+<img src="https://i.imgur.com/tJ4t5U3.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Proceed with the installation by pressing <b>Next</b>.<br/>
+ <i>Warning: You will be disconnected from your Network during a brief portion of this installation. </i><br />
+<img src="https://i.imgur.com/2y8DnD4.png" height="60%" width="60%" alt="VirtualBox Install Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
