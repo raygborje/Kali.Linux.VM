@@ -62,7 +62,8 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 <h2>VirtualBox Install Walk-Through:</h2>
 
 <p align="center">
- <i>If you already have VirtualBox installed, please skip ahead to <a href="https://github.com/raygborje/Kali.Linux.VM/blob/main/README.md#kali-linux-install-walk-through"> Kali Linux Install </a>. </i>
+ <i>If you already have VirtualBox installed, please skip ahead to <a href="https://github.com/raygborje/Kali.Linux.VM/blob/main/README.md#kali-linux-install-walk-through"> Kali Linux Install </a>. </i> <br />
+ <i>Back to <a href="https://github.com/raygborje/Kali.Linux.VM/blob/main/README.md#kali-linux---initial-setup--troubleshooting-guide-windows-10"> main </a></i> <br />
  <br />
  <br />
  Go to <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox</a>.<br /> 
@@ -121,6 +122,9 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 <h2>Kali Linux Install Walk-Through:</h2>
 
 <p align="center">
+<i>Back to <a href="https://github.com/raygborje/Kali.Linux.VM/blob/main/README.md#kali-linux---initial-setup--troubleshooting-guide-windows-10"> main </a></i> 
+<br />
+<br />
  Go to <a href="https://www.kali.org/get-kali/#kali-installer-images">Kali Installer Images</a>. Select <b>64-bit</b> and click Download icon on <b>Installer</b><br />
  <i>Depending on your ISP, this process may take an hour or more. It is recommended to let this run in the background until completion.</i>
 <img src="https://i.imgur.com/hEV3UI1.png" height="60%" width="60%" alt="Kali Linux Walk-Through"/>
@@ -240,12 +244,33 @@ By successfully setting up and troubleshooting the Kali Linux VM, participants l
 </p>
 
 <h2>Troubleshooting Guide:</h2>
-
+<p align="center"> <i>Back to <a href="https://github.com/raygborje/Kali.Linux.VM/blob/main/README.md#kali-linux---initial-setup--troubleshooting-guide-windows-10"> main </a></i> </p>
+<br />
+ 
 <h4>Missing Dependencies Python Core / win32api</h4>
 <p align="center">
-
+ Install Python from <a href="https://www.python.org/downloads/">here</a> <br />
+ Once Python is installed, open cmd and execute the following command: 
+<br />
+ <i> pip install pywin32 </i>
+<br />
+ You might have to update pip during this process. To update pip, run the following command in cmd:
+<br />
+ python.exe -m pip install --upgrade pip
+<br />
+ You should now be able to proceed with the installations without any further issues.
+<br />
  
 </p>
+<h4>"Not in a hypervisor partition (HVP=0)(VERR_NEM_NOT AVAILABLE)" Error</h4>
+
+<p align="center">
+ You need to enable virtualization on your CPU through the BIOS settings. Refer to this <a href="https://recoverit.wondershare.com/partition-tips/not-in-a-hypervisor-partition.html">guide</a>.
+<br />
+</p>
+
+
+
 
 <!--
  ```diff
